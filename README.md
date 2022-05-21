@@ -1,8 +1,6 @@
 # Java-and-SE-fundamentals-by-Duke-University
 I have created this repo to contain my solutions for all assignments.
 
-I really enjoyed every single 
-
 | No. | Course Name | Learned Topics |Certificate |
 | -| - | - | - |
 |2. | Java Programming: Solving Problems with Software | variables, String, Classes, DNA processing |[certificate](https://www.coursera.org/account/accomplishments/verify/LW69FZVUGB9V)|
